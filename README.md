@@ -8,8 +8,7 @@ Parsing news data from website and sort it in SqlLite database
 ### Resources used in Project:
 * sqlite3 
 * requests
-* bs4
-* BeautifulSoup
+* bs4(BeautifulSoup)
 * Random(randint)
 * time(sleep)
 
